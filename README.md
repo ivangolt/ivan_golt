@@ -1,22 +1,41 @@
 ivan_golt
 
 
-## Hi! I am Ivan!
+# Hi! I am Ivan!
 I am Data Scientist/Machine Learning Engineer. I like to learn something new in programming.
 
-## Technologies
+# ⚙️ Technologies
+
+## 🤖 Machine Learning
+![Static Badge](https://img.shields.io/badge/Regression-orange)
+![Static Badge](https://img.shields.io/badge/Classification-orange)
+![Static Badge](https://img.shields.io/badge/Regularisation-orange)
+![Static Badge](https://img.shields.io/badge/Ensemble_Methods-orange)
+![Static Badge](https://img.shields.io/badge/Gradient_Boosting-orange)
+![Static Badge](https://img.shields.io/badge/Clustering-orange)
+![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-orange)
+![Static Badge](https://img.shields.io/badge/Computer_Vision-orange)
+![Static Badge](https://img.shields.io/badge/Object_Detection-orange)
+![Static Badge](https://img.shields.io/badge/Large_Language_Models(LLMs)-orange)
+![Static Badge](https://img.shields.io/badge/NLP-orange)
+![Static Badge](https://img.shields.io/badge/A/B_Testing-orange)
+![Static Badge](https://img.shields.io/badge/Deep_Learning-orange)
+![Static Badge](https://img.shields.io/badge/Neural_Networks-orange)
+![Static Badge](https://img.shields.io/badge/Time_Series-orange)
+
+## 👨🏻‍💻 Programming
 
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" title="pyspark" alt="pyspark" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+          
           
 <div>
 
-  ## Classic ML Frameworks
+  ## 👨🏻‍💻 Classic ML Frameworks
 
 <div>
   
@@ -27,17 +46,56 @@ I am Data Scientist/Machine Learning Engineer. I like to learn something new in 
 
 <div>
 
-## Deep Learning Frameworks
+## 👨🏻‍💻 Deep Learning Frameworks
 
-<div>
-    
+<div>    
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" title="keras" alt="keras" width="80" height="80"/>&nbsp;
 
-
 <div>
+
+## 👷🏻‍♂️ MLOps
+![https://fastapi.tiangolo.com/](https://img.shields.io/badge/Docker-grey)
+![Static Badge](https://img.shields.io/badge/FastAPI-grey)
+![Static Badge](https://img.shields.io/badge/NVIDIA_Triton-grey)
+![Static Badge](https://img.shields.io/badge/Git-grey)
+![Static Badge](https://img.shields.io/badge/mlflow-grey)
+![Static Badge](https://img.shields.io/badge/Clearml-grey)
+![Static Badge](https://img.shields.io/badge/DVC-grey)
+![Static Badge](https://img.shields.io/badge/Airflow-grey)
+![Static Badge](https://img.shields.io/badge/Model_Monitor-grey)
+![Static Badge](https://img.shields.io/badge/Data_Drift-grey)
+![Static Badge](https://img.shields.io/badge/Grafana-grey)
+![Static Badge](https://img.shields.io/badge/ETL_Pipelines-grey)
+![Static Badge](https://img.shields.io/badge/Gitlab_CI--CD_Pipeline-grey)
+![Static Badge](https://img.shields.io/badge/Unit_Testing-grey)
+
+
+## 🧰 Libraries
+![Static Badge](https://img.shields.io/badge/transformers-yellow)
+![Static Badge](https://img.shields.io/badge/pandas-yellow)
+![Static Badge](https://img.shields.io/badge/numpy-yellow)
+![Static Badge](https://img.shields.io/badge/prefect-yellow)
+![Static Badge](https://img.shields.io/badge/seaborn-yellow)
+![Static Badge](https://img.shields.io/badge/matplotlib-yellow)
+![Static Badge](https://img.shields.io/badge/feature--engine-yellow)
+![Static Badge](https://img.shields.io/badge/evidentlyai-yellow)
+![Static Badge](https://img.shields.io/badge/shap-yellow)
+![Static Badge](https://img.shields.io/badge/huggingface-yellow)
+![Static Badge](https://img.shields.io/badge/nltk-yellow)
+![Static Badge](https://img.shields.io/badge/natasha-yellow)
+![Static Badge](https://img.shields.io/badge/plotly-yellow)
+![Static Badge](https://img.shields.io/badge/streamlit-yellow)
+![Static Badge](https://img.shields.io/badge/Hydra-yellow)
+![Static Badge](https://img.shields.io/badge/Snakemake-yellow)
+![Static Badge](https://img.shields.io/badge/BeautifulSoup-yellow)
+![Static Badge](https://img.shields.io/badge/LakeFS-yellow)
+![Static Badge](https://img.shields.io/badge/pytest-yellow)
+![Static Badge](https://img.shields.io/badge/pipenv-yellow)
+![Static Badge](https://img.shields.io/badge/toml-yellow)
+
 
 
 ## Statistics
