@@ -1,8 +1,9 @@
-ivan_golt
-
-
 # Hi! I am Ivan!
 I am Data Scientist/Machine Learning Engineer. I like to learn something new in programming.
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
+
+
+
 
 # ⚙️ Technologies
 
