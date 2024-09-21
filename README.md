@@ -63,6 +63,7 @@ I am Data Scientist/Machine Learning Engineer. I like to learn something new in 
 ![https://fastapi.tiangolo.com/](https://img.shields.io/badge/Docker-grey)
 ![Static Badge](https://img.shields.io/badge/FastAPI-grey)
 ![Static Badge](https://img.shields.io/badge/NVIDIA_Triton-grey)
+![Static Badge](https://img.shields.io/badge/vLLM-grey)
 ![Static Badge](https://img.shields.io/badge/Git-grey)
 ![Static Badge](https://img.shields.io/badge/mlflow-grey)
 ![Static Badge](https://img.shields.io/badge/Clearml-grey)
@@ -80,9 +81,11 @@ I am Data Scientist/Machine Learning Engineer. I like to learn something new in 
 ![Static Badge](https://img.shields.io/badge/transformers-yellow)
 ![Static Badge](https://img.shields.io/badge/pandas-yellow)
 ![Static Badge](https://img.shields.io/badge/numpy-yellow)
+![Static Badge](https://img.shields.io/badge/langchain-yellow)
 ![Static Badge](https://img.shields.io/badge/prefect-yellow)
 ![Static Badge](https://img.shields.io/badge/seaborn-yellow)
 ![Static Badge](https://img.shields.io/badge/matplotlib-yellow)
+![Static Badge](https://img.shields.io/badge/Optuna-yellow)
 ![Static Badge](https://img.shields.io/badge/feature--engine-yellow)
 ![Static Badge](https://img.shields.io/badge/evidentlyai-yellow)
 ![Static Badge](https://img.shields.io/badge/shap-yellow)
@@ -96,7 +99,6 @@ I am Data Scientist/Machine Learning Engineer. I like to learn something new in 
 ![Static Badge](https://img.shields.io/badge/BeautifulSoup-yellow)
 ![Static Badge](https://img.shields.io/badge/LakeFS-yellow)
 ![Static Badge](https://img.shields.io/badge/pytest-yellow)
-![Static Badge](https://img.shields.io/badge/pipenv-yellow)
 ![Static Badge](https://img.shields.io/badge/toml-yellow)
 
 
